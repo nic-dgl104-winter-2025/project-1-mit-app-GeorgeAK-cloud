@@ -71,8 +71,6 @@ When the user clicks the "Calculate Impact" button:
 
 ## References
 
-To ensure accurate carbon footprint calculations, we used data from trusted sources:
-
 - **EPA Greenhouse Gas Equivalencies Calculator**  
   [https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator](https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator)
 
